@@ -5,5 +5,3 @@
 michalpalucki@icloud.com
 
 ### Jekyll Themes
-
-
